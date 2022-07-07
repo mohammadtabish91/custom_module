@@ -1,0 +1,6 @@
+location.admin_settings_form:  
+  title: 'site location form configuration'  
+  route_name: location.admin_settings_form  
+  description: 'site location admin'  
+  parent: system.admin_config_system  
+  weight: 99 

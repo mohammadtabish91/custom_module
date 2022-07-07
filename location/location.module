@@ -1,0 +1,14 @@
+<?php
+
+/**
+ * Implements hook_theme().
+ */
+function location_theme() {
+  return [
+    'location' => [
+      'variables' => [
+        'data' => [],
+      ],
+    ],
+  ];
+}
